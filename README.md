@@ -1,6 +1,6 @@
 # Meu Programa em Python
 
-Bem-vindo ao Meu Programa em Python! Este é um projeto simples em Python que oferece ao usuário a opção de escolher entre um jogo de adivinhação e a gestão de um banco de dados de pessoas.
+Bem-vindo ao Meu Programa em Python! Este é um projeto simples em Python que oferece ao usuário a opção de escolher entre um jogo de adivinhação e a gestão de um banco de dados de pessoas. Mais coisas serão adicionadas no futuro.
 
 ## Funcionalidades
 
